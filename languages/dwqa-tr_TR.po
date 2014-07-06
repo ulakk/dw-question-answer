@@ -264,7 +264,7 @@ msgstr "Lütfen cevabınızı giriniz"
 
 #: ../dw-question-answer.php:288 ../dw-question-answer.php:417
 msgid "Please enter your comment content"
-msgstr "Lütfen yorum içeriğini giriniz"
+msgstr "Lütfen yorumunuzu giriniz"
 
 #: ../dw-question-answer.php:289 ../dw-question-answer.php:418
 msgid "Comment must have more than 2 characters"
@@ -530,13 +530,13 @@ msgstr "Yayınla"
 #: ../inc/templates/default/single-question.php:111 ../thesis/dwqa/box.php:387
 #: ../thesis/dwqa/box.php:398
 msgid "Public"
-msgstr "Halka Açık"
+msgstr "Herkese Açık"
 
 #: ../inc/actions.php:934 ../inc/template-functions.php:378
 #: ../inc/templates/default/content-answer.php:75
 #: ../inc/templates/default/single-question.php:111 ../thesis/dwqa/box.php:398
 msgid "Everyone can see"
-msgstr "Herke görebilir"
+msgstr "Herkes görebilir"
 
 #: ../inc/actions.php:935 ../inc/template-functions.php:379
 #: ../inc/templates/default/content-answer.php:76
@@ -683,7 +683,7 @@ msgstr "Bu soruyu görmek için izniniz yok."
 
 #: ../inc/filter.php:104
 msgid "Sorry, but nothing matched your filter. "
-msgstr "Üzgünüz ama filtre sonucu eşleşme bulunamadı."
+msgstr "Üzgünüz ama eşleşme bulunamadı."
 
 #: ../inc/filter.php:111 ../inc/shortcodes.php:281
 #, fuzzy
@@ -697,12 +697,12 @@ msgstr ""
 #: ../inc/filter.php:119 ../inc/shortcodes.php:289
 #: ../inc/templates/default/archive-question-notfound.php:14
 msgid "Please"
-msgstr ""
+msgstr "Lütfen"
 
 #: ../inc/filter.php:121 ../inc/shortcodes.php:291
 #: ../inc/templates/default/archive-question-notfound.php:16
 msgid "Login"
-msgstr ""
+msgstr "Girişi Yapın"
 
 #: ../inc/filter.php:125 ../inc/shortcodes.php:296
 #: ../inc/templates/default/archive-question-notfound.php:17
@@ -714,7 +714,7 @@ msgstr "veya"
 #: ../inc/templates/default/archive-question-notfound.php:18
 #: ../thesis/dwqa/box.php:315
 msgid " to submit question."
-msgstr ""
+msgstr "Soru sorabilmek için"
 
 #: ../inc/filter.php:364
 msgid "Search query are empty"
@@ -785,7 +785,7 @@ msgstr "Şu \"{question_title}\" soruya yeni cevap geldi."
 #: ../inc/templates/default/content-comment.php:15
 #: ../inc/templates/default/content-question.php:25
 msgid "Anonymous"
-msgstr "Anonymous"
+msgstr "Ziyaretçi"
 
 #: ../inc/notification.php:188
 msgid "You got new answer for your followed question"
@@ -846,7 +846,7 @@ msgstr "gün"
 msgid ""
 "A Question will be marked as overdue if passes this period of time, starting "
 "from the date the question was submitted"
-msgstr "Srunun zaman aşımına ugraqması için geçecek süre"
+msgstr "Sorunun zaman aşımına uğraması için geçecek süre"
 
 #: ../inc/settings.php:48
 msgid "Select Submit Question Page"
@@ -855,7 +855,7 @@ msgstr "Soru Gönder Sayfasını Belirle"
 #: ../inc/settings.php:53
 #, fuzzy
 msgid "A page where users can submit questions."
-msgstr "Souyu göndermek için yeterli izniniz yok."
+msgstr "Soruyu göndermek için yeterli izniniz yok."
 
 #: ../inc/settings.php:69
 msgid "Upload"
@@ -863,7 +863,7 @@ msgstr "Yükle"
 
 #: ../inc/settings.php:69
 msgid "Upload or choose a logo to be displayed at the top of the email"
-msgstr ""
+msgstr "E-Posta'nın en üstünde görülecek logoyu yükleyin veya seçin"
 
 #: ../inc/settings.php:108
 msgid "Enable notification for new question"
@@ -887,15 +887,15 @@ msgstr "Yeni cevaplar için uyarıları etkinleştir"
 
 #: ../inc/settings.php:181
 msgid "Enable notification for new answer (to Followers)"
-msgstr ""
+msgstr "Yeni cevap için bildirimleri etkinleştir (Takipçiler için)"
 
 #: ../inc/settings.php:218 ../inc/settings.php:255
 msgid "Enable notification for new comment of question"
-msgstr ""
+msgstr "Soruya, yeni cevap için bildirimleri etkinleştir."
 
 #: ../inc/settings.php:292 ../inc/settings.php:329
 msgid "Enable notification for new comment of answer"
-msgstr ""
+msgstr "Cevaba yeni yorum için bildirimleri etkinleştir"
 
 #: ../inc/settings.php:387
 msgid "Question"
@@ -908,7 +908,7 @@ msgstr "Devamını Oku"
 
 #: ../inc/settings.php:393
 msgid "Post"
-msgstr ""
+msgstr "Gönder"
 
 #: ../inc/settings.php:395 ../inc/templates/default/content-answer.php:102
 #: ../inc/templates/default/content-comment.php:51
@@ -926,11 +926,11 @@ msgstr "Yorum"
 
 #: ../inc/settings.php:519
 msgid "Enable/Disable captcha on submit question page"
-msgstr ""
+msgstr "Soru Sor sayfasında Captcha'yı Aktif/Pasif yap"
 
 #: ../inc/settings.php:525
 msgid "Enable/Disable captcha on single question page"
-msgstr ""
+msgstr "Soruya ait sayfada Captcha'yı Aktif/Pasif yap"
 
 #: ../inc/settings.php:543
 msgid "questions"
@@ -938,7 +938,7 @@ msgstr "sorular"
 
 #: ../inc/settings.php:549
 msgid "Allow members to post private question"
-msgstr ""
+msgstr "Üyelere, özel soru izni ver "
 
 #: ../inc/settings.php:567
 msgid "Plugin Settings"
@@ -983,11 +983,11 @@ msgstr "Captcha Ayarları"
 
 #: ../inc/settings.php:656
 msgid "Captcha in Submit Question Page"
-msgstr "Soru Gönder Sayfasında Captcha Ekle"
+msgstr "Soru Gönder Sayfasına Captcha Ekle"
 
 #: ../inc/settings.php:664
 msgid "Captcha in Single Question Page"
-msgstr "Tekil Soru  Sayfasında Captcha Ekle"
+msgstr "Tekil Soru  Sayfasına Captcha Ekle"
 
 #: ../inc/settings.php:672
 msgid "Google Captcha Public Key"
@@ -1003,15 +1003,15 @@ msgstr "Kalıcı Bağlantı Ayarları"
 
 #: ../inc/settings.php:697
 msgid "Single Question"
-msgstr "Tekil Soru"
+msgstr "Tek Soru"
 
 #: ../inc/settings.php:705
 msgid "Single Category"
-msgstr "Tekil Kategori"
+msgstr "Tek Kategori"
 
 #: ../inc/settings.php:713
 msgid "Single Tag"
-msgstr "Tekil Etiket"
+msgstr "Tek Etiket"
 
 #: ../inc/settings.php:762
 msgid "From Email"
@@ -1023,7 +1023,7 @@ msgstr "Grup İzinleri"
 
 #: ../inc/settings.php:846
 msgid "DWQA Settings"
-msgstr ""
+msgstr "DWQA Ayarları"
 
 #: ../inc/settings.php:851
 msgid "General"
@@ -1068,7 +1068,7 @@ msgstr "Cevaba Yeni bir Yorum (Takipçilerine)"
 
 #: ../inc/settings.php:888
 msgid "New Question Notification"
-msgstr "Yeni Soeu Uyarısı"
+msgstr "Yeni Soru Uyarısı"
 
 #: ../inc/settings.php:895 ../inc/settings.php:904 ../inc/settings.php:913
 #: ../inc/settings.php:922 ../inc/settings.php:932 ../inc/settings.php:940
@@ -1119,7 +1119,7 @@ msgstr ""
 
 #: ../inc/settings.php:995
 msgid "Send A Copy Of Every Email To Admin"
-msgstr ""
+msgstr "Her Epostanın kopyasını Admine gönder"
 
 #: ../inc/shortcodes.php:37 ../inc/templates/default/search-question.php:4
 #: ../thesis/dwqa/box.php:64
@@ -1130,7 +1130,7 @@ msgstr "Ara"
 #: ../inc/template-functions.php:722 ../thesis/dwqa/box.php:77
 #: ../thesis/dwqa/box.php:289
 msgid "Ask a question"
-msgstr "bir soru sor"
+msgstr "Soru Sor"
 
 #: ../inc/shortcodes.php:58 ../inc/templates/default/archive-question.php:24
 #: ../thesis/dwqa/box.php:85
@@ -1230,27 +1230,27 @@ msgstr "Geçersiz konu durumu"
 
 #: ../inc/template-functions.php:159
 msgid "You need an account to submit question and get answers. Create one:"
-msgstr "soru veya cevap yollamanız için kayıt olmalısınız. Hemen oluştur:"
+msgstr "Soru sorabilmek veya cevap yazabilmek için kayıt olmalısınız. Hemen oluşturun:"
 
 #: ../inc/template-functions.php:161 ../inc/template-functions.php:193
 msgid "Type your email"
-msgstr "Email adresiniz gir"
+msgstr "Email adresinizi giriniz"
 
 #: ../inc/template-functions.php:166
 msgid "Already a member?"
-msgstr "Zaten üye misin ?"
+msgstr "Üye misiniz?"
 
 #: ../inc/template-functions.php:166
 msgid "Log In"
-msgstr "Giriş Yap"
+msgstr "Giriş"
 
 #: ../inc/template-functions.php:170
 msgid "Login to submit your question"
-msgstr "Sorun girmek için girş yap"
+msgstr "Sorun girmek için giriş yap"
 
 #: ../inc/template-functions.php:177
 msgid "Not yet a member?"
-msgstr "Hala üye olmadın mı ?"
+msgstr "Üye değil misiniz?"
 
 #: ../inc/template-functions.php:177 ../inc/templates/default/answers.php:114
 msgid "Register"
@@ -1271,7 +1271,7 @@ msgstr "Soru Kategorisini Seç"
 
 #: ../inc/template-functions.php:267
 msgid "tag 1, tag 2,..."
-msgstr "cinsellik, evlilik, gibi..."
+msgstr "Android, iOS, Windows...."
 
 #: ../inc/template-functions.php:272
 msgid "Your question"
@@ -1279,7 +1279,7 @@ msgstr "Sorunuz"
 
 #: ../inc/template-functions.php:273
 msgid "How to..."
-msgstr ""
+msgstr "Nasıl...."
 
 #: ../inc/template-functions.php:280
 msgid "Question details"
@@ -1291,7 +1291,7 @@ msgstr "Bu soruyu Özel olarak Gönder"
 
 #: ../inc/template-functions.php:286
 msgid "Only you as Author and Admin can see the question"
-msgstr "Yalnızca Soru Sahibi ve admin bu soruyu görebilir"
+msgstr "Yalnızca Soru Sahibi ve Admin bu soruyu görebilir"
 
 #: ../inc/template-functions.php:309
 msgid "Ask Question"
@@ -1325,7 +1325,7 @@ msgstr "%s le işaretli olanlar gereklidir."
 #: ../inc/template-functions.php:518
 msgctxt "noun"
 msgid "Comment"
-msgstr ""
+msgstr "Yorum"
 
 #: ../inc/template-functions.php:519
 #, php-format
@@ -1367,7 +1367,7 @@ msgstr "İptal Et"
 
 #: ../inc/template-functions.php:528
 msgid "Post Comment"
-msgstr ""
+msgstr "Yorumu Gönder"
 
 #: ../inc/template-functions.php:711
 msgid "Sticky Question"
@@ -1391,7 +1391,7 @@ msgstr "Bu soru kapandı."
 
 #: ../inc/templates/default/answers.php:107
 msgid "You do not have permission to submit answer."
-msgstr "Cevap göndermek için yeterli izniniz yok."
+msgstr "Cevap göndermek için izniniz yok."
 
 #: ../inc/templates/default/answers.php:112
 msgid "Please login or"
@@ -1411,7 +1411,7 @@ msgstr ""
 
 #: ../inc/templates/default/comments.php:30
 msgid "Write a reply..."
-msgstr "Bir Cevap yaz..."
+msgstr "Cevap yaz..."
 
 #: ../inc/templates/default/content-answer.php:20
 #: ../inc/templates/default/single-question.php:22 ../thesis/dwqa/box.php:338
@@ -1430,7 +1430,7 @@ msgstr "Bu en iyi cevaptır"
 #: ../inc/templates/default/content-answer.php:50
 #: ../inc/templates/default/content-comment.php:12
 msgid "Staff"
-msgstr ""
+msgstr "Yetkili"
 
 #: ../inc/templates/default/content-answer.php:58
 msgid "Link to answer"
@@ -1450,7 +1450,7 @@ msgstr ""
 
 #: ../inc/templates/default/content-comment.php:10
 msgid "Post by"
-msgstr ""
+msgstr "Tarafından Gönderildi"
 
 #: ../inc/templates/default/content-comment.php:25
 msgid "Link to comment"
@@ -1464,7 +1464,7 @@ msgstr "Direkt Bağlantı %s"
 #: ../inc/templates/default/content-question.php:21
 #, php-format
 msgid "Posts by %s"
-msgstr ""
+msgstr "%s Tarafından Gönderildi"
 
 #: ../inc/templates/default/content-question.php:27
 msgid "by"
@@ -1486,23 +1486,23 @@ msgstr[1] ""
 
 #: ../inc/templates/default/single-question.php:33
 msgid "Unstick this Question to the front page"
-msgstr ""
+msgstr "Bu sorunun ön sayfaya sabitliğinin kaldır"
 
 #: ../inc/templates/default/single-question.php:33
 msgid "Stick this Question to the front page"
-msgstr ""
+msgstr "Bu soruyu ön sayfaya sabitle"
 
 #: ../inc/templates/default/single-question.php:80 ../thesis/dwqa/box.php:367
 msgid "Posts by"
-msgstr ""
+msgstr "Tarafından gönderildi"
 
 #: ../inc/templates/default/single-question.php:91 ../thesis/dwqa/box.php:378
 msgid "asked"
-msgstr ""
+msgstr "Soruldu"
 
 #: ../inc/templates/default/single-question.php:126 ../thesis/dwqa/box.php:413
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 #: ../inc/templates/default/single-question.php:127 ../thesis/dwqa/box.php:414
 msgid "All questions from"
@@ -1548,7 +1548,7 @@ msgstr ""
 
 #: ../thesis/dwqa/box.php:25
 msgid ""
-"By default,The container is not have gutter. You can set padding width to "
+"By default,The container is not have gutter. You can set padding width to "Notify me when have new comment to my a
 "make a gutter. You make it by update setting here."
 msgstr ""
 
